@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pushpak Thakkar.
-- 👀 I’m interested in: cyber security, development.
+- 👀 I’m interested in: cyber security.
 - 🌱 I’m currently learning: Shell Scripting, python For Pentester.
 - 😎 Education: Going On Graduation.
 - Eligible for Job role: 
